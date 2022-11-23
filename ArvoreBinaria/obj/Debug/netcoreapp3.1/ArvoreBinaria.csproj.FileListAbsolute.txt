@@ -1,0 +1,14 @@
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\netcoreapp3.1\ArvoreBinaria.exe
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\netcoreapp3.1\ArvoreBinaria.deps.json
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\netcoreapp3.1\ArvoreBinaria.runtimeconfig.json
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\netcoreapp3.1\ArvoreBinaria.runtimeconfig.dev.json
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\netcoreapp3.1\ArvoreBinaria.dll
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\bin\Debug\netcoreapp3.1\ArvoreBinaria.pdb
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.AssemblyInfo.cs
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.dll
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.pdb
+C:\Users\nick6\source\repos\ArvoreBinaria\ArvoreBinaria\obj\Debug\netcoreapp3.1\ArvoreBinaria.genruntimeconfig.cache
