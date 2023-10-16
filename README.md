@@ -112,12 +112,3 @@ http://www.romulosilvadeoliveira.eng.br/discipli/cad-fei/Aula-EstruturasDados-10
 http://www3.decom.ufop.br/toffolo/site_media/uploads/2013-1/bcc202/slides/20-21._arvores_(parte_1).pdf
 
 </p>
-
-
-
-a
-
-
-
-
-
